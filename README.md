@@ -1,6 +1,6 @@
 # FiveM-DoorPopper
 A Simple Script for FiveM Servers to use to Open the back left door of an emergency vehicle to act as a K9 "Door Popper"
-
+Forked and edited by Austin Nightfall - Harmony RP dev
 
 ## A Simple K9 Door Popper Script for FiveM
 
@@ -27,13 +27,14 @@ And replace **"184"** With the number of your choice. (you can also map it in Fi
 <details>
   <summary>How do i remap for a different door</summary>
     
-
-
   - simply take **SetVehicleDoorLatched(lastVehicle, 2, true, true)**
     and replace **2** with any number between **0 and 5**
 
     - 0 is front driver
     - 1 is rear driver
-    - 2 is 
+    - 2 is Front Pass
+    - 3 is Rear Pass
+    - 4 is the Hood
+    - 5 is the Trunk
 
 </details>
