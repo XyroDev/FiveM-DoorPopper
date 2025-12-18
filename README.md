@@ -1,6 +1,5 @@
 # FiveM-DoorPopper
 A Simple Script for FiveM Servers to use to Open the back left door of an emergency vehicle to act as a K9 "Door Popper"
-Forked and edited by Austin Nightfall - Harmony RP dev
 
 ## A Simple K9 Door Popper Script for FiveM
 
